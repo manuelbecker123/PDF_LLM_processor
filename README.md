@@ -54,8 +54,7 @@ The key advantage of this tool is its flexibility. Instead of being just a trans
         export OPENAI_API_KEY="sk-yourSecretApiKeyHere"
         ```
         (On Windows, use `set OPENAI_API_KEY=sk-yourSecretApiKeyHere` in Command Prompt or `$env:OPENAI_API_KEY="sk-yourSecretApiKeyHere"` in PowerShell).
-    * **Alternative:** Directly edit `config.py` and set the `OPENAI_API_KEY` variable. **Warning:** Avoid committing your API key to a public repository if you do this.
-
+    * **Alternative:** Directly edit `config.py` and set the `OPENAI_API_KEY` variable. 
 5.  **Configure Paths and Settings:**
     * Open `config.py`.
     * **Crucially, update:**
