@@ -33,7 +33,7 @@ The key advantage of this tool is its flexibility. Instead of being just a trans
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/pdf_llm_processor.git](https://github.com/YOUR_USERNAME/pdf_llm_processor.git)
+    git clone https://github.com/manuelbecker123/PDF_LLM_processor.git
     cd pdf_llm_processor
     ```
 
