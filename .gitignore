@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE / OS specific
+.vscode/
+.idea/
+*.DS_Store
+
+# Config - if you want to ensure local config isn't committed by accident
+# if you provide a config.example.py instead
+# config.py
+
+# Output folders (users should manage their own output)
+# Consider adding patterns if your output folders in config.py are static,
+# e.g., /Extracted_Content/* , /Processed_Output/*
+# However, it's often better to let users decide if they want to track their output.
+# For now, we'll leave this to the user. If config.py has default paths like
+# "/Users/YOUR_USER/...", these won't be matched by simple patterns here anyway.
+
+# API keys and sensitive files if not using environment variables
+# (though config.py is designed to be edited by the user)
+# *.env
