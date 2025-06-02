@@ -116,7 +116,3 @@ The process is two-staged:
 ## Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details (you'll need to create a `LICENSE` file, typically with the MIT license text).
